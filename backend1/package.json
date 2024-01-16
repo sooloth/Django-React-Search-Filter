@@ -1,0 +1,19 @@
+{
+  "name": "backend1",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "app.js",
+  "type":"module",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sooloth",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.3",
+    "nodemodule": "^0.3.0"
+  }
+}
